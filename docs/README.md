@@ -6,12 +6,9 @@
 |---|---|
 |氏名|遠山 裕太 (Toyama Yuta)|
 |生年月日|1998/11/22|
-|居住地|千葉県|
+|性別|男|
 |最終学歴|千葉大学 融合理工学府 基幹工学専攻|
-
-### 専攻分野
-
-### 英語
+|連絡先|MessengerかTwitterで連絡ください。|
 
 ---
 
@@ -22,11 +19,6 @@
 <a href="https://qiita.com/yuta3984" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/yuta3984-55C500.svg?&style=flat-square&logo=qiita&logoColor=white" /></a>
 <a href="https://zenn.dev/yuta_chiba_univ" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/yuta_chiba_univ-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white" /></a>
 </p>
-
----
-## 保有資格
-
-
 ---
 
 ## 保有スキル
@@ -69,19 +61,8 @@
 
 ## 職務経歴詳細
 
-### フリーランス（2019/03〜2021/05）
-大学3, 4年次にTwitterやコミュニティ経由でご縁があった方とチームを組み、LPやコーポレートサイトの構築に従事。
-学業の傍ら、案件獲得からデリバリーまで十数件のサイト構築に関わった。
-
-- **プロジェクト規模：**
-    - 平均 3〜4 人チームでの開発
-- **プロジェクト詳細：**
-    - WordPress, jQueryでのコーポレートサイト構築
-    - jQueryでのLP・コーポレートサイト構築
-- **案件紹介（ピックアップ）：**
-    - [せんだいメモリアル交流館](https://sendai311-memorial.jp/) 
-    - [大和ライフネクスト](https://www.daiwalifenext.co.jp/hoken/index.html)
-    - [ハマのベイWifi](https://bay-wifi.com/?gclid=Cj0KCQiAnKeCBhDPARIsAFDTLTKtwdUGHE7Cxpv9T18pDvjIKn5TVu7dMLqT1J7IXCtBdqfXQlOHijwaArV2EALw_wcB)
+### Accenture Japan（2023/05〜現在）
+TODO
 
 ### 株式会社二―リー（2021/05〜2023/05）
 大学院時代に研究の傍らインターン生としてPark Directという駐車場管理アプリの開発や業務ツール及びLPの構築に従事。
@@ -136,9 +117,50 @@ LPの設計・開発・テスト・運用
     - 上記ツール等の要件定義及びテスト、運用サポート
     - Github Actionsを用いたCDの構築。OIDC認証を行い、S3への自動リリース環境を構築
 
-### Accenture Japan（2023/05〜現在）
+### フリーランス（2019/03〜2021/05）
+大学3, 4年次にTwitterやコミュニティ経由でご縁があった方とチームを組み、LPやコーポレートサイトの構築に従事。
+学業の傍ら、案件獲得からデリバリーまで十数件のサイト構築に関わった。
 
-メンテナンス中
+- **プロジェクト規模：**
+    - 平均 3〜4 人チームでの開発
+- **プロジェクト詳細：**
+    - WordPress, jQueryでのコーポレートサイト構築
+    - jQueryでのLP・コーポレートサイト構築
+- **案件紹介（ピックアップ）：**
+    - [せんだいメモリアル交流館](https://sendai311-memorial.jp/) 
+    - [大和ライフネクスト](https://www.daiwalifenext.co.jp/hoken/index.html)
+    - [ハマのベイWifi](https://bay-wifi.com/?gclid=Cj0KCQiAnKeCBhDPARIsAFDTLTKtwdUGHE7Cxpv9T18pDvjIKn5TVu7dMLqT1J7IXCtBdqfXQlOHijwaArV2EALw_wcB)
+
+---
+## 資格など
+|Certification|Certificate|
+|第一級陸上無線技術士||
+|応用情報技術者|第AP-2022-10-04081号|
+|TOEIC total score: 855||
+
+---
+## 学歴/研究
+### 2021/04 ~ 2023/03 千葉大学 融合理工学府 基幹工学専攻 通信AI信号処理領域
+- 修士論文
+    - 『FSS及び適応的周波数リソース割り当て手法を用いた低粒度AMC-MIMO-OFDMAにおける通信性能改善』
+- 研究資金獲得
+    - NEC C&C財団（12万円）
+- 学会発表
+    - 2021年11月 IEEE ISPACS 国際学会
+    - etc
+- 投稿論文
+    - [Performance Enhancement of Low Granularity MIMO-OFDMA Using FSS Method](https://ieeexplore.ieee.org/document/9651133)
+### 2017/04 ~ 2021/03 千葉大学 工学部 総合工学科 電気電子工学コース
+- 学位論文
+    - 『FSS適用したDownlink MIMO-OFDMAにおけるBER特性改善』
+- 学会発表
+    - 2021年3月, IEICE 総合大会 口頭発表
+
+---
+## 趣味・好きな物
+- ラジオ
+- サッカー観戦
+- フットサル
 
 ---
 
