@@ -11,28 +11,27 @@
 
 ---
 
----
-
 ## 各種アカウント
 <p>
 <a href="https://github.com/yutaweb" target="_blank"><img alt="Github" src="https://img.shields.io/badge/yutaweb-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
-<a href="https://twitter.com/yuta__blog" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/@yuta_blog-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>
-<a href="https://qiita.com/ryo2132" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/ryo2132-55C500.svg?&style=flat-square&logo=qiita&logoColor=white" /></a>
-<a href="https://zenn.dev/ryo_kawamata" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/ryo_kawamata-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white" /></a>
-<a href="https://speakerdeck.com/kawamataryo" target="_blank"><img alt="SpeakerDeck" src="https://img.shields.io/badge/kawamataryo-009287.svg?&style=flat-square&logo=SpeakerDeck&logoColor=white" /></a>
+<a href="https://twitter.com/yuta_blog" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/@yuta_blog-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>
+<a href="https://qiita.com/yuta3984" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/yuta3984-55C500.svg?&style=flat-square&logo=qiita&logoColor=white" /></a>
+<a href="https://zenn.dev/yuta_chiba_univ" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/yuta_chiba_univ-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white" /></a>
 </p>
 
 ---
 
 ## 保有スキル
 
-- JavaScript / TypeScript + Vue.js でのフロントエンド開発・設計
-- レガシーコードからモダンなフロントエンドへのリファクタリング
-- フロントエンド開発基盤の整備（テスト環境、パフォーマンス計測など）
-- UT を基本とした保守性と再利用性を意識したコーディング
-- Ruby on Rails, Django でのサーバーサイド開発
-- 勉強会、社内学習のコミュニティ形成
-- アジャイル、スクラムの進行補助
+- JavaScript / React(Gatsby), Angular, jQueryでのフロントエンド開発
+- CMS / WordPress, ShopifyでのEC, 企業サイト構築
+    - PHP
+    - JavaScript(jQuery) 
+- Python / Django でのサーバーサイド開発
+- Github Actions及びCodePipelineを用いたCI/CDの構築
+- AWSリソースを用いた静的サイトホスティング環境の構築
+- GAS, VBA, AWSを用いた業務改善ツールの作成
+- Amazon Connectを用いたコールセンターの設計・構築・運用
 
 ---
 
@@ -42,11 +41,8 @@
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
-  <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
-  <img alt="Elixir" src="https://img.shields.io/badge/-Elixir-4B275F?style=flat-square&logo=Elixir&logoColor=white" />
-  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/-C-4B275F?style=flat-square&logo=C&logoColor=white" />
 </p>
 
 ### フレームワーク・その他
