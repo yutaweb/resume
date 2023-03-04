@@ -1,6 +1,6 @@
 # yuta toyama resume
 
-https://github.com/yutaweb/resume
+https://yutaweb.github.io/resume/
 
 ## Features
 
