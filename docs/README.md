@@ -134,6 +134,7 @@ LPの設計・開発・テスト・運用
 ---
 ## 資格など
 |Certification|Certificate|
+|---|---|
 |第一級陸上無線技術士||
 |応用情報技術者|第AP-2022-10-04081号|
 |TOEIC total score: 855||
