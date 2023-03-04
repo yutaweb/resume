@@ -18,6 +18,7 @@
 <a href="https://twitter.com/yuta_blog" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/@yuta_blog-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a>
 <a href="https://qiita.com/yuta3984" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/yuta3984-55C500.svg?&style=flat-square&logo=qiita&logoColor=white" /></a>
 <a href="https://zenn.dev/yuta_chiba_univ" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/yuta_chiba_univ-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/%E8%A3%95%E5%A4%AA-%E9%81%A0%E5%B1%B1-671055235/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/遠山裕太-3EA8FF.svg?&style=flat-square&logo=LinkedIn&logoColor=white" /></a>
 </p>
 ---
 
