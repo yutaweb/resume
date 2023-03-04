@@ -1,8 +1,6 @@
-# { name } resume
+# yuta toyama resume
 
-## Sample
-
-https://github.com/kawamataryo/resume
+https://github.com/yutaweb/resume
 
 ## Features
 
