@@ -141,6 +141,9 @@ LPの設計・開発・テスト・運用
 |TOEIC total score: 855||
 
 ### 英語
+- 米国アラバマ大学へ短期留学
+- 大学内での留学生と英会話（約4年間）
+   - [広報誌ちばだいプレス](https://www.chiba-u.ac.jp/general/publicity/chibadaipress/54/topic3/index.html)
 
 ---
 ## 学歴/研究
