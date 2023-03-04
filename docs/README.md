@@ -19,7 +19,7 @@
 <a href="https://qiita.com/yuta3984" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/yuta3984-55C500.svg?&style=flat-square&logo=qiita&logoColor=white" /></a>
 <a href="https://zenn.dev/yuta_chiba_univ" target="_blank"><img alt="Zenn" src="https://img.shields.io/badge/yuta_chiba_univ-3EA8FF.svg?&style=flat-square&logo=Zenn&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/%E8%A3%95%E5%A4%AA-%E9%81%A0%E5%B1%B1-671055235/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/遠山裕太-0077B5.svg?&style=flat-square&logo=LinkedIn&logoColor=white" /></a>
-<a href="https://www.facebook.com/profile.php?id=100025569558147/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/yuta_toyama-0077B5.svg?&style=flat-square&logo=Facebook&logoColor=white" /></a>
+<a href="https://www.facebook.com/profile.php?id=100025569558147/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/yuta_toyama-3B5998.svg?&style=flat-square&logo=Facebook&logoColor=white" /></a>
 </p>
 ---
 
