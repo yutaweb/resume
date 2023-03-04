@@ -145,10 +145,7 @@ LPの設計・開発・テスト・運用
 - 大学内での留学生と英会話（約4年間）
    - [広報誌ちばだいプレス](https://www.chiba-u.ac.jp/general/publicity/chibadaipress/54/topic3/index.html)
 
-<a href="https://www.chiba-u.ac.jp/general/publicity/chibadaipress/54/topic3/index.html">
 ![スクリーンショット 2023-03-04 120058](https://user-images.githubusercontent.com/64781052/222872648-c6616ede-f9eb-444e-9aea-07259fa9ae30.png)
-</a>
-
 
 ---
 ## 学歴/研究
