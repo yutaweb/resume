@@ -10,8 +10,6 @@
 |最終学歴|千葉大学 融合理工学府 基幹工学専攻|
 |連絡先|MessengerかTwitterで連絡ください。|
 
----
-
 ## 各種アカウント
 <p>
 <a href="https://github.com/yutaweb" target="_blank"><img alt="Github" src="https://img.shields.io/badge/yutaweb-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
@@ -58,6 +56,7 @@
 </p>
 
 ### 使用ツール
+TODO
 
 ---
 
@@ -140,6 +139,8 @@ LPの設計・開発・テスト・運用
 |第一級陸上無線技術士||
 |応用情報技術者|第AP-2022-10-04081号|
 |TOEIC total score: 855||
+
+### 英語
 
 ---
 ## 学歴/研究
