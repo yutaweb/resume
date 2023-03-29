@@ -129,6 +129,7 @@ LPの設計・開発・テスト・運用
     - jQueryでのLP・コーポレートサイト構築
 - **案件紹介（ピックアップ）：**
     - [せんだいメモリアル交流館](https://sendai311-memorial.jp/) 
+    - [日本SEEDフォーム技術研究会](https://seed-form.jp/)
     - [大和ライフネクスト](https://www.daiwalifenext.co.jp/hoken/index.html)
     - [ハマのベイWifi](https://bay-wifi.com/?gclid=Cj0KCQiAnKeCBhDPARIsAFDTLTKtwdUGHE7Cxpv9T18pDvjIKn5TVu7dMLqT1J7IXCtBdqfXQlOHijwaArV2EALw_wcB)
 
