@@ -3,7 +3,7 @@
 ## 基本情報
 
 |key|value|
-|---|---|
+|:---|:---|
 |氏名|遠山 裕太 (Toyama Yuta)|
 |生年月日|1998/11/22|
 |性別|男|
@@ -135,7 +135,7 @@ LPの設計・開発・テスト・運用
 ## 資格など
 
 |Certification|Certificate|
-|---|---|
+|:---|:---|
 |第一級陸上無線技術士| |
 |応用情報技術者|第AP-2022-10-04081号|
 |TOEIC total score: 855| |
@@ -159,6 +159,7 @@ LPの設計・開発・テスト・運用
     - etc
 - 投稿論文
     - [Performance Enhancement of Low Granularity MIMO-OFDMA Using FSS Method](https://ieeexplore.ieee.org/document/9651133)
+
 ### 2017/04 ~ 2021/03 千葉大学 工学部 総合工学科 電気電子工学コース
 - 学位論文
     - 『FSS適用したDownlink MIMO-OFDMAにおけるBER特性改善』
