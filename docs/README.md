@@ -16,6 +16,7 @@
 <a href="https://www.linkedin.com/in/%E8%A3%95%E5%A4%AA-%E9%81%A0%E5%B1%B1-671055235/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/遠山裕太-0077B5.svg?&style=flat-square&logo=LinkedIn&logoColor=white" /></a>
 <a href="https://www.facebook.com/profile.php?id=100025569558147/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/yuta_toyama-3B5998.svg?&style=flat-square&logo=Facebook&logoColor=white" /></a>
 </p>
+
 ---
 
 ## 保有スキル
@@ -132,11 +133,12 @@ LPの設計・開発・テスト・運用
 
 ---
 ## 資格など
+
 |Certification|Certificate|
 |---|---|
-|第一級陸上無線技術士||
+|第一級陸上無線技術士| |
 |応用情報技術者|第AP-2022-10-04081号|
-|TOEIC total score: 855||
+|TOEIC total score: 855| |
 
 ### 英語
 - 米国アラバマ大学へ短期留学
