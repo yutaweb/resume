@@ -130,6 +130,7 @@ LPの設計・開発・テスト・運用
     - [日本SEEDフォーム技術研究会](https://seed-form.jp/)
     - [大和ライフネクスト](https://www.daiwalifenext.co.jp/hoken/index.html)
     - [ハマのベイWifi](https://bay-wifi.com/?gclid=Cj0KCQiAnKeCBhDPARIsAFDTLTKtwdUGHE7Cxpv9T18pDvjIKn5TVu7dMLqT1J7IXCtBdqfXQlOHijwaArV2EALw_wcB)
+
 ※掲載許可受諾済み
 
 ---
