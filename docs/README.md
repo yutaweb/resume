@@ -25,7 +25,7 @@
     - PHP
     - JavaScript(jQuery) 
 - Python / Django でのサーバーサイド開発
-- Github Actions及びCodePipelineを用いたCI/CDの構築
+- Github Actionsを用いたCI/CDの構築
 - AWSリソースを用いた静的サイトホスティング環境の構築
 - GAS, VBA, AWSを用いた業務改善ツールの作成
 - Amazon Connectを用いたコールセンターの設計・構築・運用
