@@ -146,7 +146,7 @@ LPの設計・開発・テスト・運用
 |:---|:---|
 |第一級陸上無線技術士| R03.07.14 - 7.15 受験番号：2011776 |
 |応用情報技術者|第AP-2022-10-04081号|
-|TOEIC total score: 855| [TOEICスコア_遠山裕太 (1).pdf](https://github.com/yutaweb/resume/files/12837146/TOEIC._.1.pdf) |
+|TOEIC total score: 855||
 |AWS CLF||
 |AWS DVA||
 |AWS SOA||
