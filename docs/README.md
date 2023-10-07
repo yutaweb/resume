@@ -147,6 +147,16 @@ LPの設計・開発・テスト・運用
 |第一級陸上無線技術士| R03.07.14 - 7.15 受験番号：2011776 |
 |応用情報技術者|第AP-2022-10-04081号|
 |TOEIC total score: 855| |
+|AWS CLF||
+|AWS DVA||
+|AWS SOA||
+|AWS SAA||
+
+## イベント参加
+
+|Event|Result|
+|:---|:---|
+|AWS GameDay Partners League|13/25|
 
 ### 英語
 - 米国アラバマ大学へ短期留学
