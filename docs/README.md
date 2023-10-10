@@ -153,9 +153,9 @@ LPの設計・開発・テスト・運用
 
 ## イベント参加
 
-|Event|Result|
-|:---|:---|
-|AWS GameDay Partners League|13/25|
+|Event|Result|Content|
+|:---|:---|:--|
+|AWS GameDay Partners League|25チーム中13位|3~4人チームでAWS上で稼働するアプリの障害を解消しながらポイントを獲得し競い合う|
 
 ### 英語
 - 米国アラバマ大学へ短期留学
