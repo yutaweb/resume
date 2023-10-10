@@ -147,7 +147,8 @@ LPの設計・開発・テスト・運用
 |第一級陸上無線技術士| R03.07.14 - 7.15 受験番号：2011776 |
 |応用情報技術者|第AP-2022-10-04081号|
 |TOEIC total score: 855|![image](https://github.com/yutaweb/resume/assets/64781052/3facd7d4-6817-4017-b83f-faa1d6f4ad83)|
-|AWS CLF|https://www.credly.com/badges/a8e4fca2-cb9b-4131-9023-2b413dffd3c6/public_url|
+|AWS CLF|<a href="https://www.credly.com/badges/a8e4fca2-cb9b-4131-9023-2b413dffd3c6/public_url" target="_blank">![image](https://github.com/yutaweb/resume/assets/64781052/0d338340-1147-4a85-b515-8fbe54bbde8a)
+</a>|
 |AWS DVA||
 |AWS SAA||
 
