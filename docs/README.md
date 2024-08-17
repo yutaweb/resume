@@ -20,11 +20,11 @@
 ---
 
 ## 保有スキル
-- JavaScript / React(Gatsby), Angular, jQueryでのフロントエンド開発
+- JavaScript / React(Gatsby), Angular, Vue, Nuxt, jQueryでのフロントエンド開発
 - CMS / WordPress, ShopifyでのEC, 企業サイト構築
     - PHP
     - JavaScript(jQuery) 
-- Python / Django でのサーバーサイド開発
+- Python / Django, Golang でのサーバーサイド開発
 - Github Actionsを用いたCI/CDの構築
 - AWSリソースを用いた静的サイトホスティング環境の構築
 - GAS, VBA, AWSを用いた業務改善ツールの作成
@@ -40,25 +40,53 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/-C-4B275F?style=flat-square&logo=C&logoColor=white" />
+  <img alt="Go" src="https://img.shields.io/badge/-Golang-white?style=flat-square&logo=Go&logoColor=blue" />
 </p>
 
-### フレームワーク・その他
+### フレームワーク
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white" />
-  <img alt="Angular" src="https://img.shields.io/badge/-Angular-092E20?style=flat-square&logo=Angular&logoColor=white" />
+  <img alt="Angular" src="https://img.shields.io/badge/-Angular-red?style=flat-square&logo=Angular&logoColor=white" />
   <img alt="Gatsby" src="https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=Gatsby&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Vue" src="https://img.shields.io/badge/-Vue-white?style=flat-square&logo=Vue.js&logoColor=green" />
+  <img alt="Nuxt" src="https://img.shields.io/badge/-Nuxt-white?style=flat-square&logo=Nuxt.js&logoColor=green" />
 </p>
 
-### 使用ツール
-TODO
+### ツール
+<p>
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Datadog" src="https://img.shields.io/badge/-Datadog-white?style=flat-square&logo=datadog&logoColor=purple" />
+  <img alt="Elasticsearch" src="https://img.shields.io/badge/-Elasticsearch-black?style=flat-square&logo=elasticsearch&logoColor=white" />
+</p>
+
+### その他
+<ul>
+<li>AWS</li>
+</ul>
+
+
+### 経験アーキテクチャ
+<ul>
+<li>DDD</li>
+<li>Fluxパターン</li>
+</ul>
 
 ---
 
 ## 職務経歴詳細
 
 ### Accenture Japan（2023/05〜現在）
+
+不動産個人投資家向けのポータルアプリ開発
+- **プロジェクト規模：**
+    - 十数億円規模の案件であり、組織全体としては60名程度。所属チームは10数名。
+- **役割**
+    - フルスタックエンジニアとしてフロントエンドからバックエンドまでメインの開発メンバーとして開発に携わった。
+- **プロジェクト詳細**
+    - Golang及びNuxtを用いた0~1開発。
+    - 社内向けの管理アプリ及び社外向けのポータルサイトの構築。
+    - DDD×CleanArchitecture及びFluxパターンに従った開発。
 
 某銀行の社内システムの開発・テスト・運用。
 - **プロジェクト規模：**
