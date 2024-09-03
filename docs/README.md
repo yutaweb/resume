@@ -160,10 +160,10 @@ LPの設計・開発・テスト・運用
     - WordPress, jQueryでのコーポレートサイト構築
     - jQueryでのLP・コーポレートサイト構築
 - **案件紹介（ピックアップ）：**
-    - [せんだいメモリアル交流館](https://sendai311-memorial.jp/) 
-    - [日本SEEDフォーム技術研究会](https://seed-form.jp/)
-    - [大和ライフネクスト](https://www.daiwalifenext.co.jp/hoken/index.html)
-    - [ハマのベイWifi](https://bay-wifi.com/?gclid=Cj0KCQiAnKeCBhDPARIsAFDTLTKtwdUGHE7Cxpv9T18pDvjIKn5TVu7dMLqT1J7IXCtBdqfXQlOHijwaArV2EALw_wcB)
+    - [A社](https://sendai311-memorial.jp/) 
+    - [B社](https://seed-form.jp/)
+    - [C社](https://www.daiwalifenext.co.jp/hoken/index.html)
+    - [D社](https://bay-wifi.com/?gclid=Cj0KCQiAnKeCBhDPARIsAFDTLTKtwdUGHE7Cxpv9T18pDvjIKn5TVu7dMLqT1J7IXCtBdqfXQlOHijwaArV2EALw_wcB)
 
 ※掲載許可受諾済み
 
