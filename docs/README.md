@@ -159,13 +159,6 @@ LPの設計・開発・テスト・運用
 - **プロジェクト詳細：**
     - WordPress, jQueryでのコーポレートサイト構築
     - jQueryでのLP・コーポレートサイト構築
-- **案件紹介（ピックアップ）：**
-    - [A社](https://sendai311-memorial.jp/) 
-    - [B社](https://seed-form.jp/)
-    - [C社](https://www.daiwalifenext.co.jp/hoken/index.html)
-    - [D社](https://bay-wifi.com/?gclid=Cj0KCQiAnKeCBhDPARIsAFDTLTKtwdUGHE7Cxpv9T18pDvjIKn5TVu7dMLqT1J7IXCtBdqfXQlOHijwaArV2EALw_wcB)
-
-※掲載許可受諾済み
 
 ---
 ## 資格など
